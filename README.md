@@ -1,5 +1,4 @@
 # ejercicios-python-funciones-procesamiento
-# Ejercicios de Python - Proyecto de Práctica
 
 Este repositorio contiene una colección de ejercicios realizados en Python como parte de mi formación como Analista de Datos Junior. Los ejercicios abarcan temas como lógica de programación, funciones, procesamiento de archivos `.txt` y `.pdb`, y análisis de datos simples.
 
