@@ -53,3 +53,7 @@ Este repositorio contiene una colección de ejercicios realizados en Python como
 - Manejo de errores con excepciones
 
 ---
+## 👤 Autor
+
+**Esteban Miller**  
+Proyectos realizados como parte de mi formación en análisis de datos.
